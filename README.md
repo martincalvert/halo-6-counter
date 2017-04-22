@@ -1,2 +1,2 @@
-# halo-6-counter
-Countdown skill for alex to halo 6
+# infinty-war-counter
+Alexa skill to countdown to infinity war
